@@ -25,15 +25,7 @@ Here are some ideas to get you started:
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
   </div>
     
-<br/>
-
-
-
-<br/>
-
-
-
-<br/>
+<br/
 
 <!-- <a href="https://www.linkedin.com/in/iamrifatullah/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
@@ -50,8 +42,8 @@ Here are some ideas to get you started:
 
 
 ### Welcome folks!
-*I’m a Researcher and Engineer (Computer Science). 
-Passionate and skilled in Machine Learning, Deep Learning, Artificial Intelligence, Natural Language Processing, Neural Network, Human Computer Interaction, Data Science.*  
+*I’m a Researcher and Engineer (Computer Science) and a Future Scientist. 
+Passionate and skilled in Machine Learning, Deep Learning, Artificial Intelligence, Natural Language Processing, Neural Network, Human Computer Interaction, Data Science.*
   
 
 <!-- <br>
@@ -70,7 +62,7 @@ Passionate and skilled in Machine Learning, Deep Learning, Artificial Intelligen
 
 - 📫 How to reach me **rifatullah21@gmail.com**
 
-- ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
+- ⚡ Fun fact :- Food and Music🎵 and Code's are the reasons to live.
 
 <br>
 
