@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 <a href="https://www.hackerrank.com/iamfardin1526" target="_blank">
 <img src=https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white style="margin-bottom: 5px;" />
 </a> -->
-</div>  
+<!-- </div>   -->
   
 
 
@@ -129,9 +129,9 @@ Passionate and skilled in Machine Learning, Deep Learning, Artificial Intelligen
 <!-- <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="25" /></a>  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" /></a>   -->
 <!-- <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="25" /></a>   -->
-<!-- </p>   --> -->
+<!-- </p>   -->
 
-<br/>
+<!-- <br/> -->
 
 <!-- <h3>Statistical Data :-</h3>
 <p><img align="center"
