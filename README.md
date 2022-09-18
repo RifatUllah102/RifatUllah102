@@ -16,7 +16,45 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Mohammad Rifat Ullah</h1>
-###<h3 align="center">Student at MITS, Gwalior🌟.</h3>
+<!-- <h3 align="center">Student at MITS, Gwalior🌟.</h3> -->
+<div align=center>
+        <img src="https://readme-typing-svg.herokuapp.com?color=gotham&size=32&center=true&vCenter=true&width=600&height=50&lines=Hiii,+I'm+Fardin+%F0%9F%91%8B;Researcher+and+Engineer;" alt="Headline" />
+    </div>
+
+<div align=center>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+  </div>
+    
+<br/>
+
+
+
+<br/>
+
+
+
+<br/>
+
+<a href="https://linkedin.com/in/fardinpy909" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.kaggle.com/fardinpy" target="_blank">
+<img src=https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.hackerrank.com/iamfardin1526" target="_blank">
+<img src=https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white style="margin-bottom: 5px;" />
+</a>
+</div>  
+  
+
+
+
+### Welcome folks!
+*I’m a Researcher and Engineer (Computer Science). 
+Passionate and skilled in Machine Learning, Deep Learning, Artificial Intelligence, Natural Language Processing, Neural Network, Human Computer Interaction, Virtual Reality.*  
+  
+
+
 
 <!-- <br>
 
