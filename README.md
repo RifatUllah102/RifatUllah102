@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Mohammad Rifat Ullah</h1>
+<h3 align="center">You can call me "Rifat"😄.</h3>
 <!-- <h3 align="center">Student at MITS, Gwalior🌟.</h3> -->
 <!-- <div align=center>
         <img src="https://readme-typing-svg.herokuapp.com?color=gotham&size=32&center=true&vCenter=true&width=600&height=50&lines=Hiii,+I'm+Fardin+%F0%9F%91%8B;Researcher+and+Engineer;" alt="Headline" />
