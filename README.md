@@ -18,9 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Mohammad Rifat Ullah</h1>
 <h3 align="center">Call me "Rifat"🧍‍♂️.</h3>
 <!-- <h3 align="center">Student at MITS, Gwalior🌟.</h3> -->
-<!-- <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=gotham&size=32&center=true&vCenter=true&width=600&height=50&lines=Hiii,+I'm+Fardin+%F0%9F%91%8B;Researcher+and+Engineer;" alt="Headline" />
-    </div> -->
+
 
 <div align=center>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
@@ -55,7 +53,8 @@ Passionate and skilled in Machine Learning, Deep Learning, Artificial Intelligen
 
 <br> -->
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="Rifat Ullah" /></p>
+<p><img align="right" src="https://github.com/RifatUllah102/Logo/blob/main/animation.gif" alt="Rifat Ullah" /></p>
+<!-- <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="Rifat Ullah" /></p> -->
 
 - 😄 Pronouns: He/Him/His
 
@@ -85,10 +84,6 @@ Passionate and skilled in Machine Learning, Deep Learning, Artificial Intelligen
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
       alt="Rifat" height="30" width="40" /></a>
 </p>
-
-<!-- <a href="https://scholar.google.com/citations?user=jXyHoFIAAAAJ&hl=en" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google.svg"
-      alt="Rifat" height="30" width="40" /></a> -->
 
 <br>
 
