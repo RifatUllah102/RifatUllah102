@@ -55,7 +55,7 @@ Passionate and skilled in Machine Learning, Deep Learning, Artificial Intelligen
 
 <br> -->
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="Rifat Ullah" /></p>
 
 - 😄 Pronouns: He/Him/His
 
@@ -79,7 +79,7 @@ Passionate and skilled in Machine Learning, Deep Learning, Artificial Intelligen
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
       alt="Rifat" height="30" width="40" /></a>
   <a href="https://scholar.google.com/citations?user=jXyHoFIAAAAJ&hl=en" target="blank"><img align="center"
-      src="https://github.com/RifatUllah102/Logo/icons8-google-scholar-240.svg"
+      src="https://github.com/RifatUllah102/Logo/blob/main/icons8-google-scholar-240.svg"
       alt="Rifat" height="30" width="40" /></a>
  <a href="https://twitter.com/RifatRitul" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
