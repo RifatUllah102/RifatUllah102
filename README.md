@@ -53,8 +53,8 @@ Passionate and skilled in Machine Learning, Deep Learning, Artificial Intelligen
 
 <br> -->
 
-<p><img align="right" src="https://github.com/RifatUllah102/Logo/blob/main/animation.gif" alt="Rifat Ullah" /></p>
-<!-- <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="Rifat Ullah" /></p> -->
+<!-- <p><img align="right" src="https://github.com/RifatUllah102/Logo/blob/main/animation.gif" alt="Rifat Ullah" /></p> -->
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="Rifat Ullah" /></p>
 
 - 😄 Pronouns: He/Him/His
 
