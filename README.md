@@ -80,9 +80,9 @@ Passionate and skilled in Machine Learning, Deep Learning, Artificial Intelligen
   <a href="https://scholar.google.com/citations?user=jXyHoFIAAAAJ&hl=en" target="blank"><img align="center"
       src="https://github.com/RifatUllah102/Logo/blob/main/icons8-google-scholar-240.svg"
       alt="Rifat" height="30" width="40" /></a>
- <a href="https://twitter.com/RifatRitul" target="blank"><img align="center"
+<!--  <a href="https://twitter.com/RifatRitul" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="Rifat" height="30" width="40" /></a>
+      alt="Rifat" height="30" width="40" /></a> -->
 </p>
 
 <br>
