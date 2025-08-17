@@ -40,8 +40,8 @@ Here are some ideas to get you started:
 
 
 
-### Welcome folks!
-*I’m a Researcher, Computer Engineer and a Future Scientist. 
+### Welcome, folks!
+*I’m a Researcher, Computer Engineer, and a Future Scientist. 
 Passionate and skilled in Machine Learning, Deep Learning, Artificial Intelligence, Natural Language Processing, Neural Network, Human Computer Interaction, Data Science.*
   
 
@@ -71,9 +71,9 @@ Passionate and skilled in Machine Learning, Deep Learning, Artificial Intelligen
   <a href="https://www.linkedin.com/in/iamrifatullah/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="Rifat" height="30" width="40" /></a>
-  <a href="https://www.facebook.com/NameRifat/" target="blank"><img align="center"
+<!--   <a href="https://www.facebook.com/NameRifat/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="Rifat" height="30" width="40" /></a>
+      alt="Rifat" height="30" width="40" /></a> -->
   <a href="https://leetcode.com/RifatUllah/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
       alt="Rifat" height="30" width="40" /></a>
