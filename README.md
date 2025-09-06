@@ -127,5 +127,6 @@ Passionate and skilled in Machine Learning, Deep Learning, Artificial Intelligen
       
 <p align="left"> <a href="https://twitter.com/" target="blank"><img
       src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
+Thanks for stopping by!
 [Rifat Ullah](https://github.com/RifatUllah102)
+
