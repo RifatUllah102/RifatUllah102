@@ -57,11 +57,8 @@ Passionate and skilled in Machine Learning, Deep Learning, Artificial Intelligen
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="Rifat Ullah" /></p>
 
 - 😄 Pronouns: He/Him/His
-
-- 🌱 I’m currently working as a Machine Learning Engineer
-
+- 🌱 I’m currently looking (actively) for a full-time ML Engineer/AI Engineer, Data Analyst, Data Scientist, or Software Engineer position.
 - 📫 How to reach me **rifatullah21@gmail.com**
-
 - ⚡ Fun fact : Food🍕 and Music🎵 and Code💻 are the reasons to live.
 
 <br>
