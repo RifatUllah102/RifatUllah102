@@ -59,6 +59,7 @@ Passionate and skilled in Machine Learning, Deep Learning, Artificial Intelligen
 - 😄 Pronouns: He/Him/His
 - 🌱 I’m currently looking (actively) for a full-time ML Engineer/AI Engineer, Data Analyst, Data Scientist, or Software Engineer position.
 - 📫 How to reach me **rifatullah21@gmail.com**
+- 📋 Check my resume: [To View My Resume, Click Here](https://drive.google.com/file/d/14EWnnoqkTUlbEJ8owJBuR-7FLfy06Lrg/view?usp=drive_link)
 - ⚡ Fun fact : Food🍕 and Music🎵 and Code💻 are the reasons to live.
 
 <br>
